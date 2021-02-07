@@ -1,4 +1,4 @@
-This is a simple Express application application writtnen in Typescript
+This is a simple Express application application written in Typescript
 
 > :warning: **This is a learning project**, some best practices are out of scope
 
