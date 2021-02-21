@@ -1,6 +1,6 @@
 This is a simple Express application written in Typescript
 
-> :warning: **This is a learning project**, some best practices are out of scope
+> :warning: **This is a learning project**, some best practices are out of scope.
 
 ## Getting Started
 
